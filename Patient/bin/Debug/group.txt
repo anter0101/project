@@ -1,0 +1,2 @@
+National Id: 1000.Frist Name:ahmed.Last Name:omar.Age:20.Bloodtype:AB+.regstiration date:Tuesday, January 19, 2021.Phone number:012202020.Case:NORMAL.Address:55-street-giza.Doctor Name:osama.
+National Id: 100.Frist Name:Ahmed.Last Name:Omar.Age:23.Bloodtype:O-.regstiration date:Monday, January 4, 2021.Phone number:012062959595.Case:Normal.Address:55-street-nasr city-egypt.Doctor Name:Osama.

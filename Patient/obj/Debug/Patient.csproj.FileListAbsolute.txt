@@ -1,0 +1,12 @@
+C:\Users\abdul\source\repos\Patient\bin\Debug\Patient.exe.config
+C:\Users\abdul\source\repos\Patient\bin\Debug\Patient.exe
+C:\Users\abdul\source\repos\Patient\bin\Debug\Patient.pdb
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.csprojAssemblyReference.cache
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.Properties.Resources.resources
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.exe
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.pdb
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.Patient.resources
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.profilee.resources
+C:\Users\abdul\source\repos\Patient\obj\Debug\Patient.login_form.resources
